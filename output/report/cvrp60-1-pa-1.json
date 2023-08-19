@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 2,
+    "name": "cvrp60-1-pa-1",
+    "number_of_points": 61,
+    "region": "pa-1",
+    "total_size": 349.0,
+    "vehicle_capacity": 180.0
+}

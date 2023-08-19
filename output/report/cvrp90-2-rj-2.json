@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 3,
+    "name": "cvrp90-2-rj-2",
+    "number_of_points": 91,
+    "region": "rj-2",
+    "total_size": 481.0,
+    "vehicle_capacity": 180.0
+}

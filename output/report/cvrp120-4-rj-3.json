@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 4,
+    "name": "cvrp120-4-rj-3",
+    "number_of_points": 121,
+    "region": "rj-4",
+    "total_size": 637.0,
+    "vehicle_capacity": 180.0
+}

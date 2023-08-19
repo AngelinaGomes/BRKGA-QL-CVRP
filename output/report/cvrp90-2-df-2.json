@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 3,
+    "name": "cvrp90-2-df-2",
+    "number_of_points": 91,
+    "region": "df-2",
+    "total_size": 478.0,
+    "vehicle_capacity": 180.0
+}

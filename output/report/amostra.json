@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 2,
+    "name": "amostra",
+    "number_of_points": 11,
+    "region": "df-0",
+    "total_size": 54.0,
+    "vehicle_capacity": 30.0
+}

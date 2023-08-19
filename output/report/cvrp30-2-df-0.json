@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 2,
+    "name": "cvrp30-2-df-0",
+    "number_of_points": 31,
+    "region": "df-2",
+    "total_size": 189.0,
+    "vehicle_capacity": 180.0
+}

@@ -1,0 +1,8 @@
+{
+    "min_vehicles": 1,
+    "name": "cvrp30-3-rj-0",
+    "number_of_points": 31,
+    "region": "rj-3",
+    "total_size": 146.0,
+    "vehicle_capacity": 180.0
+}
